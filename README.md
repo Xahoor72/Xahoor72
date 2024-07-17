@@ -1,6 +1,8 @@
 ![logo](https://github.com/Xahoor72/Xahoor72/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Zahoor Ahmad Shergujry</h1>
 <h3 align="center">A passionate Software developer .</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahoor72&label=Profile%20views&color=0e75b6&style=flat" alt="xahoor72" /> </p>
 
