@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahoor72&label=Profile%20views&color=0e75b6&style=flat" alt="xahoor72" /> </p>
 
 
-- 💬 Ask me about **React , NodeJs , Blockchain**
+- 💬 Ask me about **C++, DSA , React , NodeJs , Blockchain**
 
 - 📫 How to reach me **ahmedxahoor72@gmail.com**
 
